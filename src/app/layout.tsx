@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Ecoders - Home",
-  description: "Built with Next.js",
+  description: "Built using Next.js and Hygraph CMS",
 };
 
 export default function RootLayout({
